@@ -1,6 +1,6 @@
 # toggleid for EMS 
 
-For Ambulance / EMS RP Purpose
+For Ambulance / EMS RP Purpose 
 
 also this is easy to config and change toggle id for other jobs
 change the job Line: 65
@@ -16,6 +16,7 @@ https://github.com/DevLanceGood/fivem-toggleid
 
 Credits to DevLanceGood
 
+This purpose also for lazy people
 
 Screenshot: 
 
